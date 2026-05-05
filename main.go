@@ -1,4 +1,4 @@
-package pastebin
+package main
 
 import (
 	"context"
